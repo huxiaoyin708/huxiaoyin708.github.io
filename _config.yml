@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nachuan Xiao"
+  name             : "Xiaoyin Hu"
   avatar           : "photo.jpg"
-  bio              : "Research Fellow at National University of Singapore" # Your biography for the left-hand sidebar
-  location         : "Singapore" # could become a hyper link
+  bio              : "Lecturer at Hangzhou City University" # Your biography for the left-hand sidebar
+  location         : "Hangzhou, China" # could become a hyper link
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=1qrNHUMAAAAJ"
-  email            : "xnc@lsec.cc.ac.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=vw7ahnAAAAAJ"
+  email            : "hxy@amss.ac.cn"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
