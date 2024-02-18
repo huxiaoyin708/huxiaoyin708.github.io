@@ -44,10 +44,10 @@ $^{\*}$: corresponding author
   <strong>Xiaoyin Hu</strong>, Xin Liu, Nachuan Xiao* <br>
   Journal of Industrial and Management Optimization (to appear). <br>
 * [Dissolving constraints for Riemannian optimization ](https://pubsonline.informs.org/doi/abs/10.1287/moor.2023.1360) <br>
-  <strong>Xiaoyin Hu<strong>, Jianshu Li, Xiaoya Li, J.C. Cui* <br>
+  <strong>Xiaoyin Hu</strong>, Jianshu Li, Xiaoya Li, J.C. Cui* <br>
   Journal of the Operation Research Society of China. 2021, 9: 475-498. <br>
 * [Carbon Emissions Abatement(CEA) Allocation Based on Inverse Slack-Based Model(SBM) ](https://link.springer.com/article/10.1007/s40305-020-00303-y) <br>
-  Jianshu Li*, <strong>Xiaoyin Hu<strong>, Junjie Luo, J.C. Cui <br>
+  Jianshu Li*, <strong>Xiaoyin Hu</strong>, Junjie Luo, J.C. Cui <br>
   International Conference on Combinatorial Optimization and Applications. Cham: SpringerInternational Publishing, 2019. <br>
 * [A Fast Exact Algorithm for Airplane Refueling Problem](https://link.springer.com/chapter/10.1007/978-3-030-36412-0_25) <br>
 
