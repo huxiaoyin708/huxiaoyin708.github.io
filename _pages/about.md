@@ -9,14 +9,11 @@ redirect_from:
 ---
 
 - - -
-I am a post-doctoral research fellow at the Institute of Operations Research and Analytics (IORA), National University of Singapore, working with Prof. [Kim-Chuan Toh](https://blog.nus.edu.sg/mattohkc/). I obtained my Ph.D. degree at the Academy of Mathematics and Systems Science, Chinese Academy of Sciences in 2021, under the supervision of Prof. [Ya-xiang Yuan](http://lsec.cc.ac.cn/~yyx/). I obtained my B.S. in Mathematics and Applied Mathematics at Fudan University in 2016.
-
-Here is my [CV](./files/NachuanXiao_Resume.pdf).
+I am a lecturer in the School of Computer and Computing Science, Hangzhou City University, Hangzhou，China. I got my Ph.D. degree in the Academy of Mathematics and Systems Science, Chinese Academy of Sciences in 2021. I got my B.S. in Mathematics and Applied Mathematics from Zhejiang University in 2016.
 
 ## Research Interests
 
 - **Nonsmooth optimization** 
 - **Riemannian optimization** 
-- **Constrained optimization**
+- **Optimization problems in machine learning**
 
-My research interests include numerical methods for nonsmooth optimization problems, especially in developing efficient stochastic subgradient methods with convergence guarantees. I am also interested in developing efficient algorithms for optimization problem with constraints. An important aspect of my work involves developing frameworks for direct implementations of unconstrained optimization approaches to constrained optimization problems, with an emphasis on maintaining the efficiency and convergence guarantees of the original unconstrained optimization approaches.
