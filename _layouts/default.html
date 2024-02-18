@@ -1,31 +1,31 @@
-<!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-		</head>
-		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/css/experience.html">Experience</a></li>
-					<li><a href="/css/teaching.html">Teaching</a></li>
-					<li><a href="/css/software.html">Software</a></li>
-	    		</ul>
-			</nav>
-			
-			<div class="container">
-			
-			{{ content }}
-			
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:huxy@hzcu.edu.cn">Email</a></li>
-	        		<li><a href="https://scholar.google.com/citations?user=vw7ahnAAAAAJ&hl=zh-CN">Google Scholar</a></li>
-					<li><a href="http://person.zucc.edu.cn/details?teacherId=8296">School Page</a></li>
-				</ul>
-			</footer>
-		</body>
-	</html>
+---
+layout: compress
+---
+
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    {{ content }}
+
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+
+  </body>
+</html>
