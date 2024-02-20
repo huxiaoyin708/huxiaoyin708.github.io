@@ -19,7 +19,6 @@ I am a lecturer in the School of Computer and Computing Science, Hangzhou City U
 
 ## Grants
 
-------
 
 * 2024.01-2026.12 <br>
   深度学习中的流形优化问题：算法设计与求解软件包的开发，国家自然科学基金委员会，青年基金，主持. <br>
