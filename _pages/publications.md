@@ -44,7 +44,7 @@ $^{\*}$: corresponding author
   <strong>Xiaoyin Hu</strong>, Xin Liu, Nachuan Xiao* <br>
   Journal of Industrial and Management Optimization (to appear). <br>
 * [An improved unconstrained approach for bilevel optimization](https://epubs.siam.org/doi/full/10.1137/22M1513034) <br>
-  Xiaoyin Hu, <strong>Nachuan Xiao*</strong>, Xin Liu, Kim-Chuan Toh <br>
+  <strong>Xiaoyin Hu</strong>, Nachuan Xiao*, Xin Liu, Kim-Chuan Toh <br>
   SIAM Journal on Optimization, 2023, 33(4): 2801-2829. <br>
 * [Carbon Emissions Abatement(CEA) Allocation Based on Inverse Slack-Based Model(SBM) ](https://link.springer.com/article/10.1007/s40305-020-00303-y) <br>
   <strong>Xiaoyin Hu</strong>, Jianshu Li, Xiaoya Li, J.C. Cui* <br>
