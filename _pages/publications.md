@@ -37,10 +37,10 @@ $^{\*}$: corresponding author
 * [Adam-family Methods for Nonsmooth Optimization with Convergence Guarantees](https://arxiv.org/pdf/2305.03938) <br>
   Nachuan Xiao, <strong>Xiaoyin Hu*</strong>, Xin Liu, Kim-Chuan Toh <br>
   Journal of Machine Learning Research (to appear). <br>
-* [A constraint dissolving approach for nonsmooth optimization over the stiefel manifold](https://arxiv.org/pdf/2205.10500) <br>
+* [A constraint dissolving approach for nonsmooth optimization over the stiefel manifold](https://doi.org/10.1093/imanum/drad098) <br>
   <strong>Xiaoyin Hu</strong>, Nachuan Xiao*, Xin Liu, Kim-Chuan Toh <br>
   IMA Journal of Numerical Analysis (to appear). <br>
-* [Convergence properties of stochastic proximal subgradient method in solving a class of composite optimization problems with cardinality regularizer](https://doi.org/10.1093/imanum/drad098) <br>
+* [Convergence properties of stochastic proximal subgradient method in solving a class of composite optimization problems with cardinality regularizer](https://www.aimsciences.org/article/doi/10.3934/jimo.2023149) <br>
   <strong>Xiaoyin Hu</strong>, Xin Liu, Nachuan Xiao* <br>
   Journal of Industrial and Management Optimization (to appear). <br>
 * [An improved unconstrained approach for bilevel optimization](https://epubs.siam.org/doi/full/10.1137/22M1513034) <br>
