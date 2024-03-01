@@ -42,7 +42,7 @@ $^{\*}$: corresponding author
   IMA Journal of Numerical Analysis (to appear). <br>
 * [Convergence properties of stochastic proximal subgradient method in solving a class of composite optimization problems with cardinality regularizer](https://www.aimsciences.org/article/doi/10.3934/jimo.2023149) <br>
   <strong>Xiaoyin Hu</strong>, Xin Liu, Nachuan Xiao* <br>
-  Journal of Industrial and Management Optimization (to appear). <br>
+  Journal of Industrial and Management Optimization, 2024, 20(5): 1934-1950. <br>
 * [An improved unconstrained approach for bilevel optimization](https://epubs.siam.org/doi/full/10.1137/22M1513034) <br>
   <strong>Xiaoyin Hu</strong>, Nachuan Xiao*, Xin Liu, Kim-Chuan Toh <br>
   SIAM Journal on Optimization, 2023, 33(4): 2801-2829. <br>
