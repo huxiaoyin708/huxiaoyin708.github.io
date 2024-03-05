@@ -36,7 +36,7 @@ $^{\*}$: corresponding author
 
 * [Adam-family Methods for Nonsmooth Optimization with Convergence Guarantees](https://arxiv.org/pdf/2305.03938) <br>
   Nachuan Xiao, <strong>Xiaoyin Hu*</strong>, Xin Liu, Kim-Chuan Toh <br>
-  Journal of Machine Learning Research (to appear). <br>
+  Journal of Machine Learning Research, 25(48):1–53, 2024 <br>
 * [A constraint dissolving approach for nonsmooth optimization over the stiefel manifold](https://doi.org/10.1093/imanum/drad098) <br>
   <strong>Xiaoyin Hu</strong>, Nachuan Xiao*, Xin Liu, Kim-Chuan Toh <br>
   IMA Journal of Numerical Analysis (to appear). <br>
