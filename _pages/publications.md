@@ -59,11 +59,9 @@ $^{\*}$: corresponding author
 
 * [Learning-rate-free Momentum SGD with Reshuffling Converges in Nonsmooth Nonconvex Optimization](https://arxiv.org/pdf/2406.18287) <br><strong>Xiaoyin Hu</strong>, Nachuan Xiao*, Xin Liu, Kim-Chuan Toh <br>
   arXiv preprint arXiv:2406.18287. <br>
-  
 * [Developing Lagrangian-based methods for nonsmooth nonconvex optimization](https://arxiv.org/pdf/2404.09438) <br>
   Nachuan Xiao, Kuangyu Ding*, <strong>Xiaoyin Hu</strong>, Kim-Chuan Toh <br>
   arXiv preprint arXiv:2404.09438. <br>
-  
 * [SGD-type Methods with Guaranteed Global Stability in Nonsmooth Nonconvex Optimization](https://arxiv.org/pdf/2307.10053) <br>
   Nachuan Xiao, <strong>Xiaoyin Hu*</strong>, Kim-Chuan Toh <br>
   arXiv preprint arXiv:2307.10053. <br>
