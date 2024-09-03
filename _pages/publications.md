@@ -56,7 +56,8 @@ $^{\*}$: corresponding author
 ### Preprints
 
 ------
-
+* [A minimization approach for minimax optimization with coupled constraints](https://arxiv.org/pdf/2408.17213) <br><strong>Xiaoyin Hu</strong>, Kim-Chuan Toh, Shiwei Wang, Nachuan Xiao* <br>
+  arXiv preprint arXiv:2408.17213. <br>
 * [Learning-rate-free Momentum SGD with Reshuffling Converges in Nonsmooth Nonconvex Optimization](https://arxiv.org/pdf/2406.18287) <br><strong>Xiaoyin Hu</strong>, Nachuan Xiao*, Xin Liu, Kim-Chuan Toh <br>
   arXiv preprint arXiv:2406.18287. <br>
 * [Developing Lagrangian-based methods for nonsmooth nonconvex optimization](https://arxiv.org/pdf/2404.09438) <br>
