@@ -33,7 +33,9 @@ author_profile: true
 ------
 
 $^{\*}$: corresponding author
-
+* [CDOpt: a Python package for a class of Riemannian optimization](https://arxiv.org/pdf/2212.02698) <br>
+  Nachuan Xiao, <strong>Xiaoyin Hu*</strong>, Xin Liu, Kim-Chuan Toh <br>
+  Mathematical Programming Computation (to appear). <br>
 * [Adam-family Methods for Nonsmooth Optimization with Convergence Guarantees](https://arxiv.org/pdf/2305.03938) <br>
   Nachuan Xiao, <strong>Xiaoyin Hu*</strong>, Xin Liu, Kim-Chuan Toh <br>
   Journal of Machine Learning Research, 25(48):1–53, 2024 <br>
@@ -66,6 +68,4 @@ $^{\*}$: corresponding author
 * [SGD-type Methods with Guaranteed Global Stability in Nonsmooth Nonconvex Optimization](https://arxiv.org/pdf/2307.10053) <br>
   Nachuan Xiao, <strong>Xiaoyin Hu*</strong>, Kim-Chuan Toh <br>
   arXiv preprint arXiv:2307.10053. <br>
-* [CDOpt: a Python package for a class of Riemannian optimization](https://arxiv.org/pdf/2212.02698) <br>
-  Nachuan Xiao, <strong>Xiaoyin Hu*</strong>, Xin Liu, Kim-Chuan Toh <br>
-  arXiv preprint arXiv:2212.02698. <br>
+
