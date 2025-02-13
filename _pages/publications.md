@@ -43,7 +43,7 @@ $^{\*}$: corresponding author
   Journal of Machine Learning Research, 25(48):1–53, 2024 <br>
 * [A constraint dissolving approach for nonsmooth optimization over the stiefel manifold](https://doi.org/10.1093/imanum/drad098) <br>
   <strong>Xiaoyin Hu</strong>, Nachuan Xiao*, Xin Liu, Kim-Chuan Toh <br>
-  IMA Journal of Numerical Analysis (to appear). <br>
+  IMA Journal of Numerical Analysis, Volume 44, Issue 6, November 2024, Pages 3717–3748. <br>
 * [Convergence properties of stochastic proximal subgradient method in solving a class of composite optimization problems with cardinality regularizer](https://www.aimsciences.org/article/doi/10.3934/jimo.2023149) <br>
   <strong>Xiaoyin Hu</strong>, Xin Liu, Nachuan Xiao* <br>
   Journal of Industrial and Management Optimization, 2024, 20(5): 1934-1950. <br>
