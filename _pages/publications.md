@@ -37,7 +37,7 @@ $^{\*}$: corresponding author
   Journal of Scientific Computing 102, 85 (2025).  <br>
 * [CDOpt: a Python package for a class of Riemannian optimization](https://link.springer.com/article/10.1007/s12532-025-00277-z) <br>
   Nachuan Xiao, <strong>Xiaoyin Hu*</strong>, Xin Liu, Kim-Chuan Toh <br>
-  Mathematical Programming Computation, 2025. (to appear). <br>
+  Mathematical Programming Computation, 2025. <br>
 * [Adam-family Methods for Nonsmooth Optimization with Convergence Guarantees](https://arxiv.org/pdf/2305.03938) <br>
   Nachuan Xiao, <strong>Xiaoyin Hu*</strong>, Xin Liu, Kim-Chuan Toh <br>
   Journal of Machine Learning Research, 25(48):1–53, 2024 <br>
