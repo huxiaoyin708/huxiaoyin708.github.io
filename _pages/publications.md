@@ -33,9 +33,11 @@ author_profile: true
 ------
 
 $^{\*}$: corresponding author
-* [CDOpt: a Python package for a class of Riemannian optimization](https://arxiv.org/pdf/2212.02698) <br>
+* [Learning-rate-free Momentum SGD with Reshuffling Converges in Nonsmooth Nonconvex Optimization](https://link.springer.com/article/10.1007/s10915-025-02798-0) <br><strong>Xiaoyin Hu</strong>, Nachuan Xiao*, Xin Liu, Kim-Chuan Toh <br>
+  Journal of Scientific Computing 102, 85 (2025).  <br>
+* [CDOpt: a Python package for a class of Riemannian optimization](https://link.springer.com/article/10.1007/s12532-025-00277-z) <br>
   Nachuan Xiao, <strong>Xiaoyin Hu*</strong>, Xin Liu, Kim-Chuan Toh <br>
-  Mathematical Programming Computation (to appear). <br>
+  Mathematical Programming Computation, 2025. (to appear). <br>
 * [Adam-family Methods for Nonsmooth Optimization with Convergence Guarantees](https://arxiv.org/pdf/2305.03938) <br>
   Nachuan Xiao, <strong>Xiaoyin Hu*</strong>, Xin Liu, Kim-Chuan Toh <br>
   Journal of Machine Learning Research, 25(48):1–53, 2024 <br>
@@ -60,8 +62,6 @@ $^{\*}$: corresponding author
 ------
 * [A minimization approach for minimax optimization with coupled constraints](https://arxiv.org/pdf/2408.17213) <br><strong>Xiaoyin Hu</strong>, Kim-Chuan Toh, Shiwei Wang, Nachuan Xiao* <br>
   arXiv preprint arXiv:2408.17213. <br>
-* [Learning-rate-free Momentum SGD with Reshuffling Converges in Nonsmooth Nonconvex Optimization](https://arxiv.org/pdf/2406.18287) <br><strong>Xiaoyin Hu</strong>, Nachuan Xiao*, Xin Liu, Kim-Chuan Toh <br>
-  arXiv preprint arXiv:2406.18287. <br>
 * [Developing Lagrangian-based methods for nonsmooth nonconvex optimization](https://arxiv.org/pdf/2404.09438) <br>
   Nachuan Xiao, Kuangyu Ding*, <strong>Xiaoyin Hu</strong>, Kim-Chuan Toh <br>
   arXiv preprint arXiv:2404.09438. <br>
