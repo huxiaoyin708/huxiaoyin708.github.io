@@ -60,6 +60,8 @@ $^{\*}$: corresponding author
 ### Preprints
 
 ------
+* [A hybrid subgradient method for nonsmooth nonconvex bilevel optimization](https://arxiv.org/pdf/2505.22040) <br> Nachuan Xiao, <strong>Xiaoyin Hu*</strong>, Xin Liu, Kim-Chuan Toh <br>
+  arXiv preprint arXiv:2505.22040. <br>
 * [A minimization approach for minimax optimization with coupled constraints](https://arxiv.org/pdf/2408.17213) <br><strong>Xiaoyin Hu</strong>, Kim-Chuan Toh, Shiwei Wang, Nachuan Xiao* <br>
   arXiv preprint arXiv:2408.17213. <br>
 * [Developing Lagrangian-based methods for nonsmooth nonconvex optimization](https://arxiv.org/pdf/2404.09438) <br>
