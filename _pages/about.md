@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 - - -
-I am an associate professor in the School of Computer and Computing Science, Hangzhou City University, Hangzhou，China. I got my Ph.D. degree in the Academy of Mathematics and Systems Science, Chinese Academy of Sciences in 2021. I got my B.S. in Mathematics and Applied Mathematics from Zhejiang University in 2016.  
+I am an associate professor in the School of Mathematical Sciences, Shenzhen University, Shenzhen，China. I got my Ph.D. degree in the Academy of Mathematics and Systems Science, Chinese Academy of Sciences in 2021. I got my B.S. in Mathematics and Applied Mathematics from Zhejiang University in 2016.  
 
 <!-- [中文主页](http://person.zucc.edu.cn/details?teacherId=8296) -->
 
