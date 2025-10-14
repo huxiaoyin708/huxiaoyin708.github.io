@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Xiaoyin Hu"
   avatar           : "photo.jpg"
-  bio              : "Associate professor at Hangzhou City University" # Your biography for the left-hand sidebar
-  location         : "Hangzhou, China" # could become a hyper link
+  bio              : "Associate professor at Shenzhen University" # Your biography for the left-hand sidebar
+  location         : "Shenzhen, China" # could become a hyper link
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=vw7ahnAAAAAJ"
