@@ -61,6 +61,7 @@ $^{\*}$: corresponding author
 
 ------
 * [Partial Envelope for Optimization Problem with Nonconvex Constraints](https://arxiv.org/pdf/2510.22223) <br> <strong>Xiaoyin Hu</strong>, Nachuan Xiao*, Xin Liu, Kim-Chuan Toh 
+<br>
   arXiv preprint arXiv:2510.22223. <br>
 * [A hybrid subgradient method for nonsmooth nonconvex bilevel optimization](https://arxiv.org/pdf/2505.22040) <br> Nachuan Xiao, <strong>Xiaoyin Hu*</strong>, Xin Liu, Kim-Chuan Toh <br>
   arXiv preprint arXiv:2505.22040. <br>
