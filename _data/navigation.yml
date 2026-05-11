@@ -3,5 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Grants"
+    url: /grants/
+
   - title: "Experience"
     url: /experience/
