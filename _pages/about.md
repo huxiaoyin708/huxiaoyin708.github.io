@@ -48,7 +48,7 @@ redirect_from:
     </article>
     <article class="home-publication">
       <h3><a href="https://arxiv.org/pdf/2408.17213">A minimization approach for minimax optimization with coupled constraints</a></h3>
-      <p>Xiaoyin Hu, Kim-Chuan Toh, Shiwei Wang, Nachuan Xiao. SIAM Journal on Optimization, 2026.</p>
+      <p><strong>Xiaoyin Hu</strong>, Kim-Chuan Toh, Shiwei Wang, Nachuan Xiao. SIAM Journal on Optimization, 2026.</p>
     </article>
   </div>
 </section>
