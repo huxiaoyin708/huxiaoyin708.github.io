@@ -36,7 +36,7 @@ $^{\*}$: corresponding author
 * [Developing Lagrangian-based methods for nonsmooth nonconvex optimization](https://arxiv.org/pdf/2404.09438) <br>
   Nachuan Xiao, Kuangyu Ding*, <strong>Xiaoyin Hu</strong>, Kim-Chuan Toh <br>
   Mathematics of Operations Research, 2026. <br>
-* [A minimization approach for minimax optimization with coupled constraints](https://arxiv.org/pdf/2408.17213) <br>Xiaoyin Hu, Kim-Chuan Toh, Shiwei Wang, <strong>Nachuan Xiao*</strong> <br>
+* [A minimization approach for minimax optimization with coupled constraints](https://arxiv.org/pdf/2408.17213) <br><strong>Xiaoyin Hu</strong>, Kim-Chuan Toh, Shiwei Wang, Nachuan Xiao* <br>
   SIAM Journal on Optimization, 2026, 36(2), 811-840. <br>
 * [Learning-rate-free Momentum SGD with Reshuffling Converges in Nonsmooth Nonconvex Optimization](https://link.springer.com/article/10.1007/s10915-025-02798-0) <br><strong>Xiaoyin Hu</strong>, Nachuan Xiao*, Xin Liu, Kim-Chuan Toh <br>
   Journal of Scientific Computing 102, 85 (2025).  <br>
