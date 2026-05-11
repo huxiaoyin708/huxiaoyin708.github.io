@@ -55,9 +55,25 @@ redirect_from:
 
 <section class="home-section home-highlights" aria-label="Academic highlights">
   <article class="home-highlight home-highlight--dark">
-    <p class="home-highlight__label">Current Grant</p>
-    <h2>深度学习中的流形优化问题：算法设计与求解软件包的开发</h2>
-    <p>NSFC Youth Fund, 2024.01-2026.12</p>
+    <p class="home-highlight__label">Funding</p>
+    <h2>Grants</h2>
+    <ul class="home-grant-list">
+      <li class="home-grant">
+        <span class="home-grant__date">2024.01-2026.12</span>
+        <span class="home-grant__title">深度学习中的流形优化问题：算法设计与求解软件包的开发</span>
+        <span class="home-grant__meta">国家自然科学基金委员会，青年基金，主持.</span>
+      </li>
+      <li class="home-grant">
+        <span class="home-grant__date">2023.01-2025.12</span>
+        <span class="home-grant__title">机器学习中的流形优化问题的算法设计及其理论与应用</span>
+        <span class="home-grant__meta">浙江省自然科学基金委员会，探索青年，主持.（结题）</span>
+      </li>
+      <li class="home-grant">
+        <span class="home-grant__date">2022.10-2024.10</span>
+        <span class="home-grant__title">正交约束优化问题的算法设计及其在人工智能中的应用</span>
+        <span class="home-grant__meta">浙江省教育厅，一般项目，主持.（结题）</span>
+      </li>
+    </ul>
   </article>
   <article class="home-highlight">
     <p class="home-highlight__label">Current Position</p>

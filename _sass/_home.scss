@@ -261,6 +261,45 @@
   text-transform: uppercase;
 }
 
+.home-grant-list {
+  display: grid;
+  gap: 0.85rem;
+  margin: 0.85rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.home-grant {
+  display: grid;
+  gap: 0.25rem;
+  padding-top: 0.8rem;
+  border-top: 1px solid rgba(148, 163, 184, 0.3);
+}
+
+.home-grant__date {
+  color: #93c5fd;
+  font-family: $sans-serif;
+  font-size: $type-size-7;
+  font-weight: 800;
+}
+
+.home-grant__title,
+.home-grant__meta {
+  font-family: $sans-serif;
+  line-height: 1.45;
+}
+
+.home-grant__title {
+  color: #fff;
+  font-size: $type-size-6;
+  font-weight: 800;
+}
+
+.home-grant__meta {
+  color: #cbd5e1;
+  font-size: $type-size-6;
+}
+
 .home-highlight--dark {
   border-color: #172033;
   background: #172033;
