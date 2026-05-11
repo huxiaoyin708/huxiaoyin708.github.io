@@ -1,30 +1,67 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
+layout: home
+title: "Xiaoyin Hu"
+excerpt: "Associate Professor at Shenzhen University"
+author_profile: false
+redirect_from:
   - /about/
   - /about.html
 ---
 
-- - -
-I am an associate professor in the School of Mathematical Sciences, Shenzhen University, Shenzhen，China. I got my Ph.D. degree in the Academy of Mathematics and Systems Science, Chinese Academy of Sciences in 2021. I got my B.S. in Mathematics and Applied Mathematics from Zhejiang University in 2016.  
+<section class="home-hero" aria-labelledby="home-title">
+  <div class="home-hero__media">
+    <img class="home-hero__avatar" src="{{ '/images/photo.jpg' | relative_url }}" alt="Xiaoyin Hu">
+    <div class="home-hero__actions" aria-label="Profile links">
+      <a class="home-button home-button--primary" href="{{ '/publications/' | relative_url }}">Publications</a>
+      <a class="home-button" href="https://scholar.google.com/citations?user=vw7ahnAAAAAJ">Google Scholar</a>
+      <a class="home-button" href="mailto:hxy@amss.ac.cn">Email</a>
+    </div>
+  </div>
 
-<!-- [中文主页](http://person.zucc.edu.cn/details?teacherId=8296) -->
+  <div class="home-hero__content">
+    <p class="home-eyebrow">School of Mathematical Sciences, Shenzhen University</p>
+    <h1 id="home-title">Xiaoyin Hu</h1>
+    <p class="home-role">Associate Professor, School of Mathematical Sciences, Shenzhen University</p>
+    <p class="home-summary">I work on nonsmooth optimization, Riemannian optimization, and optimization problems in machine learning.</p>
+    <div class="home-tags" aria-label="Research interests">
+      <span>Nonsmooth optimization</span>
+      <span>Riemannian optimization</span>
+      <span>Machine learning</span>
+    </div>
+  </div>
+</section>
 
-## Research Interests
+<section class="home-section home-publications" aria-labelledby="selected-publications">
+  <div class="home-section__header">
+    <h2 id="selected-publications">Selected Publications</h2>
+    <a href="{{ '/publications/' | relative_url }}">View all</a>
+  </div>
+  <div class="home-publication-list">
+    <article class="home-publication">
+      <h3><a href="https://arxiv.org/pdf/2305.03938">Adam-family Methods for Nonsmooth Optimization with Convergence Guarantees</a></h3>
+      <p>Nachuan Xiao, <strong>Xiaoyin Hu</strong>, Xin Liu, Kim-Chuan Toh. Journal of Machine Learning Research, 2024.</p>
+    </article>
+    <article class="home-publication">
+      <h3><a href="https://link.springer.com/article/10.1007/s12532-025-00277-z">CDOpt: a Python package for a class of Riemannian optimization</a></h3>
+      <p>Nachuan Xiao, <strong>Xiaoyin Hu</strong>, Xin Liu, Kim-Chuan Toh. Mathematical Programming Computation, 2025.</p>
+    </article>
+    <article class="home-publication">
+      <h3><a href="https://arxiv.org/pdf/2408.17213">A minimization approach for minimax optimization with coupled constraints</a></h3>
+      <p>Xiaoyin Hu, Kim-Chuan Toh, Shiwei Wang, Nachuan Xiao. SIAM Journal on Optimization, 2026.</p>
+    </article>
+  </div>
+</section>
 
-- **Nonsmooth optimization** 
-- **Riemannian optimization** 
-- **Optimization problems in machine learning**
-
-## Grants
-
-
-* 2024.01-2026.12 <br>
-  深度学习中的流形优化问题：算法设计与求解软件包的开发，国家自然科学基金委员会，青年基金，主持. <br>
-* 2023.01-2025.12 <br>
-  机器学习中的流形优化问题的算法设计及其理论与应用，浙江省自然科学基金委员会，探索青年，主持.（结题）<br>
-* 2022.10-2024.10 <br>
-  正交约束优化问题的算法设计及其在人工智能中的应用，浙江省教育厅，一般项目，主持.（结题） <br>
+<section class="home-section home-highlights" aria-label="Academic highlights">
+  <article class="home-highlight home-highlight--dark">
+    <p class="home-highlight__label">Current Grant</p>
+    <h2>深度学习中的流形优化问题：算法设计与求解软件包的开发</h2>
+    <p>NSFC Youth Fund, 2024.01-2026.12</p>
+  </article>
+  <article class="home-highlight">
+    <p class="home-highlight__label">Current Position</p>
+    <h2>Shenzhen University</h2>
+    <p>School of Mathematical Sciences, 2025.10-present</p>
+  </article>
+</section>
